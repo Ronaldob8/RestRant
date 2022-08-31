@@ -7,6 +7,14 @@ function error404 () {
           <main>
               <h1>404: PAGE NOT FOUND</h1>
               <p>Oops, sorry, we can't find this page!</p>
+              <div>
+                <img src="/images/istockphoto-1305291912-170667a.jpg" alt="bird is free" />
+              </div>
+              <div>
+                <p>
+                    Photo from iStock
+                </p>
+              </div>
           </main>
       </Def>
     )
